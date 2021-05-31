@@ -17,5 +17,5 @@ spring:
       ddl-auto: none
 
 application:
-  description: Projeto criado no Satander Dev Week
-  version: 1.0
+  description: Projeto criado no Satander Dev Week / BackEnd
+  version: 1.1
